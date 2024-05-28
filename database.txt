@@ -1,0 +1,31 @@
+1
+Khang Nguyen
+khangnguyen123
+123456
+0
+San Jose
+3
+Pop
+Soft rock
+Hard rock
+
+2
+Kyle Nguyen
+kylenguyen123
+123456789
+0
+San Francisco
+2
+Pop
+Hard rock
+
+3
+Ken Tran
+kentran2000
+ken1137
+0
+Los Angeles
+3
+Disco
+Country rock
+R&B
